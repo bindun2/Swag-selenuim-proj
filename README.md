@@ -6,7 +6,7 @@ It demonstrates automated testing of key user scenarios using Java, TestNG, and 
 
 ---
 
-## Features / Test Scenarios
+## Test Scenarios
 1. **Login with an Invalid User** – Verify that a locked-out user cannot log in.  
 2. **Login with a Valid User** – Verify successful login and redirection to the inventory page.  
 3. **Filter Products by Name and Price** – Verify correct product sorting.  
@@ -25,4 +25,4 @@ It demonstrates automated testing of key user scenarios using Java, TestNG, and 
 
 ---
 
-## Project Structure
+
