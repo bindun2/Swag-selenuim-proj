@@ -1,8 +1,8 @@
-# SwagLabs Selenium Automation Assignment
+# SwagLabs Selenium Automation Project
 
 ## Overview
 This project contains a Selenium WebDriver automation framework for the SwagLabs demo website.  
-It demonstrates automated testing of key user scenarios using Java, TestNG, and **Page Object Model (POM).
+It demonstrates automated testing of key user scenarios using Java, TestNG, and Page Object Model (POM).
 
 ---
 
